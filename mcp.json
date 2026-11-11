@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "otovo": {
+      "url": "https://otovo.com/api/v1/mcp"
+    }
+  }
+}

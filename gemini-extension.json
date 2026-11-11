@@ -1,0 +1,10 @@
+{
+  "name": "otovo",
+  "version": "1.0.0",
+  "description": "Check your solar system and book, move or cancel Otovo visits.",
+  "mcpServers": {
+    "otovo": {
+      "httpUrl": "https://otovo.com/api/v1/mcp"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "otovo",
+  "displayName": "Otovo",
+  "description": "Check your solar system and book, move or cancel Otovo visits. Every change is shown to you first and happens only when you approve it.",
+  "version": "1.0.0",
+  "author": { "name": "Otovo", "email": "support@otovo.com", "url": "https://otovo.com" },
+  "homepage": "https://otovo.com/connect",
+  "repository": "https://github.com/otovo/otovo-mcp",
+  "license": "MIT",
+  "logo": "assets/otovo-icon-512.png",
+  "keywords": ["solar", "battery", "ev charger", "home energy", "scheduling"]
+}
